@@ -1,0 +1,2168 @@
+{
+  "mensproduct": [
+    {
+      "id": 1,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013223686_437Wx649H_202205221451261.jpeg",
+      "brand": "Nuon Men",
+      "title": "Nuon Men by Westside Grey Nuo-Flex Rodeo Carrot-Fit Jeans",
+      "price": 1699,
+      "rating": 4.1
+    },
+    {
+      "id": 2,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010848740_437Wx649H_202110090116481.jpeg",
+      "brand": "ID",
+      "title": "ID Men's Grey Walking Shoes",
+      "price": 2349,
+      "rating": 3.3
+    },
+    {
+      "id": 3,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011214047_437Wx649H_202111191441121.jpeg",
+      "brand": "Peter England",
+      "title": "Peter England Jeans Black Slim Fit Jeans",
+      "price": 2363,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000008700065_437Wx649H_202210072355411.jpeg",
+      "brand": "U.S. Polo Assn.",
+      "title": "U.S. Polo Assn. Blue Slim Fit Jeans - Flexi Collection",
+      "price": 999,
+      "rating": 3.6
+    },
+    {
+      "id": 5,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011341186_437Wx649H_202112041636581.jpeg",
+      "brand": "Blackberrys",
+      "title": "Blackberrys Navy Textured 2-Piece Suit",
+      "price": 899,
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000003434612_437Wx649H_202206270101401.jpeg",
+      "brand": "XYXX",
+      "title": "XYXX Grey & Navy Slim Fit Pyjama Pants (Pack Of 2)",
+      "price": 1484,
+      "rating": 3.2
+    },
+    {
+      "id": 7,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010359649_437Wx649H_202108202104341.jpeg",
+      "brand": "Mufti",
+      "title": "Mufti Black Slim Fit Jeans",
+      "price": 999,
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011505564_437Wx649H_202112181521501.jpeg",
+      "brand": "Puma",
+      "title": "Puma White CR Team Polo T-Shirt",
+      "price": 999,
+      "rating": 4
+    },
+    {
+      "id": 9,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012339862_437Wx649H_202203031730041.jpeg",
+      "brand": "adidas",
+      "title": "Adidas Men's EQ21 RUN Charcoal Black Running Shoes",
+      "price": 999,
+      "rating": 2.9
+    },
+    {
+      "id": 10,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011497713_437Wx649H_202112172045241.jpeg",
+      "brand": "New Balance",
+      "title": "New Balance Men's Obsidian Black Running Shoes",
+      "price": 999,
+      "rating": 4
+    },
+    {
+      "id": 11,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011497713_437Wx649H_202112172045241.jpeg",
+      "brand": "New Balance",
+      "title": "New Balance Men's Obsidian Black Running Shoes",
+      "price": 2998,
+      "rating": 4
+    },
+    {
+      "id": 12,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010551115_437Wx649H_202109101305121.jpeg",
+      "brand": "Vimal Jonney",
+      "title": "Vimal Jonney Multicolor Cotton Trackpants - Pack of 3",
+      "price": 1499,
+      "rating": 3.8
+    },
+    {
+      "id": 13,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010439169_437Wx649H_202108271848371.jpeg",
+      "brand": "ETA",
+      "title": "ETA by Westside Charcoal Slim Fit Chinos",
+      "price": 999,
+      "rating": 4
+    },
+    {
+      "id": 14,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000011816252_437Wx649H_202201190304031.jpeg",
+      "brand": "adidas",
+      "title": "Adidas Men's Rey Carbon Black Running Shoes",
+      "price": 2998,
+      "rating": 3.9
+    },
+    {
+      "id": 15,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012807318_437Wx649H_202212011130061.jpeg",
+      "brand": "Red Tape",
+      "title": "Red Tape Men's Jet Black Thong Sandals",
+      "price": 1299,
+      "rating": 4.4
+    },
+    {
+      "id": 16,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011068749_437Wx649H_202110302207561.jpeg",
+      "brand": "adidas",
+      "title": "Adidas Men's LITE RACER 3 0 Royal Blue Casual Sneakers",
+      "price": 3999,
+      "rating": 3.5
+    },
+    {
+      "id": 17,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000003993840_437Wx649H_202212152012371.jpeg",
+      "brand": "Red Chief",
+      "title": "Red Chief Men's Black Boat Shoes",
+      "price": 2699,
+      "rating": 3.4
+    },
+    {
+      "id": 18,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010651633_437Wx649H_202109191529011.jpeg",
+      "brand": "Jack & Jones",
+      "title": "Jack & Jones Brown Full Sleeves Regular Fit T-Shirt",
+      "price": 1499,
+      "rating": 3.9
+    },
+    {
+      "id": 19,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010321096_437Wx649H_202108180148101.jpeg",
+      "brand": "adidas",
+      "title": "adidas Black Full Sleeves Cotton Jacket",
+      "price": 2697,
+      "rating": 3.5
+    },
+    {
+      "id": 20,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000008551785_437Wx649H_202101132029421.jpeg",
+      "brand": "WES Formals",
+      "title": "WES Formals by Westside Black Ultra-Slim Fit Shirt",
+      "price": 999,
+      "rating": 4.4
+    },
+    {
+      "id": 21,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011147222_437Wx649H_202111122214341.jpeg",
+      "brand": "Hoka",
+      "title": "Hoka Men's ROCKET X Eggshell Blue Running Shoes",
+      "price": 999,
+      "rating": 4.6
+    },
+    {
+      "id": 22,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011068789_437Wx649H_202110302209531.jpeg",
+      "brand": "adidas",
+      "title": "Adidas Men's LITE RACER CLN 2 0 Pitch Black Casual Sneakers",
+      "price": 2247,
+      "rating": 3
+    },
+    {
+      "id": 23,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000009912915_437Wx649H_202107031549321.jpeg",
+      "brand": "Bewakoof",
+      "title": "Bewakoof Black Crew T-Shirt",
+      "price": 1839,
+      "rating": 4.4
+    },
+    {
+      "id": 24,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000011988588_437Wx649H_202202041218581.jpeg",
+      "brand": "Bewakoof",
+      "title": "Bewakoof Black Printed T-Shirt",
+      "price": 1820,
+      "rating": 4.3
+    },
+    {
+      "id": 25,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012607670_437Wx649H_202203261853091.jpeg",
+      "brand": "Woodland",
+      "title": "Woodland Men's Black Casual Loafers",
+      "price": 10799,
+      "rating": 3
+    },
+    {
+      "id": 26,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000009101569_437Wx649H_202212040931581.jpeg",
+      "brand": "Puma",
+      "title": "Puma Men's Caper V2 Chocolate Brown Thong Sandals",
+      "price": 5999,
+      "rating": 4.4
+    },
+    {
+      "id": 27,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014684062_437Wx649H_202209290948551.jpeg",
+      "brand": "adidas",
+      "title": "Adidas Men's Adi Icon M Grey Running Shoes",
+      "price": 4499,
+      "rating": 4.1
+    },
+    {
+      "id": 28,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015198750_437Wx649H_202211060735261.jpeg",
+      "brand": "United Colors of Benetton",
+      "title": "United Colors Of Benetton Grey & Blue Cotton Regular Fit Colour Block Sweater",
+      "price": 1374,
+      "rating": 5
+    },
+    {
+      "id": 29,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014573938_437Wx649H_202209212031401.jpeg",
+      "brand": "Red Tape",
+      "title": "Red Tape Rust Regular Fit Printed Sweatshirt",
+      "price": 1049,
+      "rating": 4.6
+    },
+    {
+      "id": 30,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014493859_437Wx649H_202209221157151.jpeg",
+      "brand": "Levi's",
+      "title": "Levi'S 511 Light Indigo Cotton Slim Fit Jeans",
+      "price": 1978,
+      "rating": 4.5
+    },
+    {
+      "id": 31,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014527108_437Wx649H_202209181234061.jpeg",
+      "brand": "Louis Philippe",
+      "title": "Louis Philippe Grey Slim Fit Self Pattern Trousers",
+      "price": 1374,
+      "rating": 5
+    },
+    {
+      "id": 32,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015048636_437Wx649H_202210271842421.jpeg",
+      "brand": "U.S. Polo Assn.",
+      "title": "U.S. Polo Assn. Navy Cotton Regular Fit Checks Shirt",
+      "price": 1099,
+      "rating": 3.5
+    },
+    {
+      "id": 33,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013735806_437Wx649H_202207082350251.jpeg",
+      "brand": "Levi's",
+      "title": "Levi's Maroon Regular Fit Joggers",
+      "price": 1799,
+      "rating": 4.7
+    },
+    {
+      "id": 34,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012712567_437Wx649H_202204031615251.jpeg",
+      "brand": "Jack & Jones",
+      "title": "Jack & Jones Light Blue Denim Slim Fit Jeans",
+      "price": 919,
+      "rating": 4.3
+    },
+    {
+      "id": 35,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000010584430_437Wx649H_202204040226291.jpeg",
+      "brand": "Wrangler",
+      "title": "Wrangler White Printed Shirt",
+      "price": 699,
+      "rating": 4.6
+    },
+    {
+      "id": 36,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000011519848_437Wx649H_202208121431201.jpeg",
+      "brand": "Arrow",
+      "title": "Arrow Blue Regular Fit Striped Cotton Shirt",
+      "price": 2399,
+      "rating": 3
+    },
+    {
+      "id": 37,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013674122_437Wx649H_202207021641081.jpeg",
+      "brand": "American Eagle Outfitters",
+      "title": "American Eagle Outfitters Beige Polo T-Shirt",
+      "price": 1249,
+      "rating": 5
+    },
+    {
+      "id": 38,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012537062_437Wx649H_202203191446161.jpeg",
+      "brand": "Pepe Jeans",
+      "title": "Pepe Jeans Brown Lightly Washed Jeans",
+      "price": 2699,
+      "rating": 5
+    },
+    {
+      "id": 39,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012829938_437Wx649H_202204141958061.jpeg",
+      "brand": "Pepe Jeans",
+      "title": "Pepe Jeans Navy Regular Fit Striped Shirt",
+      "price": 685,
+      "rating": 3.7
+    },
+    {
+      "id": 40,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011022562_437Wx649H_202110271906001.jpeg",
+      "brand": "Blackberrys",
+      "title": "Blackberrys Blue Slim Fit Low Rise Jeans",
+      "price": 1679,
+      "rating": 5
+    },
+    {
+      "id": 41,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011715819_437Wx649H_202201080951581.jpeg",
+      "brand": "Skechers",
+      "title": "Skechers Men's SANDBAR CHILLAX Black Flip Flops",
+      "price": 1650,
+      "rating": 4.1
+    },
+    {
+      "id": 42,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000009486071_437Wx649H_202105030519541.jpeg",
+      "brand": "Mufti",
+      "title": "Mufti Blue Slim Fit Distressed Jeans",
+      "price": 1249,
+      "rating": 3.8
+    },
+    {
+      "id": 43,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012714223_437Wx649H_202204032033271.jpeg",
+      "brand": "Jack & Jones",
+      "title": "Jack & Jones Black Cotton Slim Fit Printed T-Shirt",
+      "price": 1469,
+      "rating": 4.3
+    },
+    {
+      "id": 44,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012607665_437Wx649H_202203261852461.jpeg",
+      "brand": "Woodland",
+      "title": "Woodland Men's Tan Casual Loafers",
+      "price": 799,
+      "rating": 3
+    },
+    {
+      "id": 45,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000008560297_437Wx649H_202101142056191.jpeg",
+      "brand": "WES Formals",
+      "title": "WES Formals by Westside White Ultra Slim Fit Shirt",
+      "price": 5599,
+      "rating": 4.4
+    },
+    {
+      "id": 46,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011680666_437Wx649H_202201052223111.jpeg",
+      "brand": "Metro",
+      "title": "Metro Men's Grey Casual Sneakers",
+      "price": 4799,
+      "rating": 3
+    },
+    {
+      "id": 47,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011680666_437Wx649H_202201052223111.jpeg",
+      "brand": "Metro",
+      "title": "Metro Men's Grey Casual Sneakers",
+      "price": 4799,
+      "rating": 3
+    },
+    {
+      "id": 48,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000012344285_437Wx649H_202203040425041.jpeg",
+      "brand": "Allen cooper",
+      "title": "Allen Cooper Men's Navy Running Shoes",
+      "price": 1199,
+      "rating": 3.9
+    },
+    {
+      "id": 49,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000012383715_437Wx649H_202203061956231.jpeg",
+      "brand": "U.S. Polo Assn.",
+      "title": "U.S. Polo Assn. Navy Cotton Regular Fit Printed Trackpants",
+      "price": 1319,
+      "rating": 4.6
+    },
+    {
+      "id": 50,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012712511_437Wx649H_202204031613121.jpeg",
+      "brand": "Jack & Jones",
+      "title": "Jack & Jones Light Blue Denim Slim Fit Jeans",
+      "price": 2000,
+      "rating": 4.5
+    },
+    {
+      "id": 51,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010291526_437Wx649H_202108152238201.jpeg",
+      "brand": "Ascot",
+      "title": "Ascot by Westside White Relaxed Fit Shirt",
+      "price": 999,
+      "rating": 4.1
+    },
+    {
+      "id": 52,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000012364400_437Wx649H_202203051107041.jpeg",
+      "brand": "Hoka",
+      "title": "Hoka Men's Rocket X Lime Green Running Shoes",
+      "price": 2759,
+      "rating": 3
+    },
+    {
+      "id": 53,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000001834593_437Wx649H_202212152011031.jpeg",
+      "brand": "Red Chief",
+      "title": "Red Chief Men's Black Derby Shoes",
+      "price": 2503,
+      "rating": 4.1
+    },
+    {
+      "id": 54,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010613379_437Wx649H_202109160415551.jpeg",
+      "brand": "Sparx",
+      "title": "Sparx Men's Navy Casual Sneakers",
+      "price": 849,
+      "rating": 3.9
+    },
+    {
+      "id": 55,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000011519945_437Wx649H_202208121434111.jpeg",
+      "brand": "Arrow",
+      "title": "Arrow Navy Regular Fit Check Cotton Shirt",
+      "price": 1999,
+      "rating": 4.1
+    },
+    {
+      "id": 56,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013038112_437Wx649H_202205060336311.jpeg",
+      "brand": "American Eagle Outfitters",
+      "title": "American Eagle Outfitters Black Slim Fit Jeans",
+      "price": 2399,
+      "rating": 4
+    },
+    {
+      "id": 57,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011360754_437Wx649H_202112051952041.jpeg",
+      "brand": "Aeropostale",
+      "title": "Aeropostale Blue Skinny Fit Lightly Washed Jeans",
+      "price": 8399,
+      "rating": 3.1
+    },
+    {
+      "id": 58,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012737206_437Wx649H_202204070129031.jpeg",
+      "brand": "Levi's",
+      "title": "Levi's Mid Indigo Slim Fit Jeans",
+      "price": 3359,
+      "rating": 3
+    },
+    {
+      "id": 59,
+      "image": "https://img.tatacliq.com/images/i4/437Wx649H/MP000000005146645_437Wx649H_20190726055050.jpeg",
+      "brand": "ALCIS",
+      "title": "ALCIS Black Round Neck Polyester T-Shirt",
+      "price": 499,
+      "rating": 4.2
+    },
+    {
+      "id": 60,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011711862_437Wx649H_202201080618141.jpeg",
+      "brand": "Skechers",
+      "title": "Skechers Men's ULTRA FLEX 2.0 KWASI Navy Casual Slip-Ons",
+      "price": 549,
+      "rating": 3.5
+    },
+    {
+      "id": 61,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000012343096_437Wx649H_202203040326301.jpeg",
+      "brand": "Allen cooper",
+      "title": "Allen Cooper Men's Black Casual Slip-Ons",
+      "price": 2846,
+      "rating": 3.5
+    },
+    {
+      "id": 62,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012595934_437Wx649H_202203251026131.jpeg",
+      "brand": "adidas",
+      "title": "Adidas Men's EQ21 Silver Running Shoes",
+      "price": 1169,
+      "rating": 4.2
+    },
+    {
+      "id": 63,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013746800_437Wx649H_202207100055121.jpeg",
+      "brand": "Skechers",
+      "title": "Skechers Men's UNO Red Casual Sneakers",
+      "price": 1619,
+      "rating": 4.5
+    },
+    {
+      "id": 64,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014310235_437Wx649H_202209012140381.jpeg",
+      "brand": "United Colors of Benetton",
+      "title": "United Colors of Benetton Multicolor Sweater",
+      "price": 2274,
+      "rating": 3.7
+    },
+    {
+      "id": 65,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012830915_437Wx649H_202204142131301.jpeg",
+      "brand": "Jack & Jones",
+      "title": "Jack & Jones Dark Grey Printed T-Shirt",
+      "price": 929,
+      "rating": 4.6
+    },
+    {
+      "id": 66,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015018181_437Wx649H_202210240844381.jpeg",
+      "brand": "Louis Philippe Jeans",
+      "title": "Louis Philippe Jeans Black Slim Fit Jeans",
+      "price": 1599,
+      "rating": 4
+    },
+    {
+      "id": 67,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010818369_437Wx649H_202110060600061.jpeg",
+      "brand": "Louis Philippe",
+      "title": "Louis Philippe Black Cotton Regular Fit Shirt",
+      "price": 1689,
+      "rating": 3
+    },
+    {
+      "id": 68,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012058946_437Wx649H_202202161248031.jpeg",
+      "brand": "Jack & Jones",
+      "title": "Jack & Jones Red & Blue Checks Shirt",
+      "price": 1428,
+      "rating": 4.7
+    },
+    {
+      "id": 69,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012538358_437Wx649H_202203191645251.jpeg",
+      "brand": "Pepe Jeans",
+      "title": "Pepe Jeans Navy Round Neck Short Sleeves T-Shirt",
+      "price": 1499,
+      "rating": 5
+    },
+    {
+      "id": 70,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014114234_437Wx649H_202208120218201.jpeg",
+      "brand": "Louis Philippe",
+      "title": "Louis Philippe Navy Slim Fit Self Pattern Trousers",
+      "price": 1574,
+      "rating": 5
+    },
+    {
+      "id": 71,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012899779_437Wx649H_202204221859031.jpeg",
+      "brand": "United Colors of Benetton",
+      "title": "United Colors Of Benetton Blue Linen Slim Fit Shirt",
+      "price": 1399,
+      "rating": 4
+    },
+    {
+      "id": 72,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000011850618_437Wx649H_202201211545081.jpeg",
+      "brand": "Jockey",
+      "title": "Jockey Dark Navy Exposed Waistband Square Cut Briefs",
+      "price": 209,
+      "rating": 4.2
+    },
+    {
+      "id": 73,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010816066_437Wx649H_202110060410581.jpeg",
+      "brand": "Jack & Jones",
+      "title": "Jack & Jones Dark Blue Printed Sweatshirt",
+      "price": 1399,
+      "rating": 4
+    },
+    {
+      "id": 74,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010439168_437Wx649H_202108271848351.jpeg",
+      "brand": "ETA",
+      "title": "ETA by Westside Beige Slim Fit Chinos",
+      "price": 1299,
+      "rating": 4
+    },
+    {
+      "id": 75,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000012147771_437Wx649H_202301180034561.jpeg",
+      "brand": "Crocs",
+      "title": "Crocs Men's Bayaband Red Back Strap Clogs",
+      "price": 584,
+      "rating": 3.7
+    },
+    {
+      "id": 76,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000009461580_437Wx649H_202104290212501.jpeg",
+      "brand": "Louis Philippe",
+      "title": "Louis Philippe Navy Slim Fit Lightly Washed Jeans",
+      "price": 2846,
+      "rating": 4
+    },
+    {
+      "id": 77,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010686715_437Wx649H_202109231506241.jpeg",
+      "brand": "Hangup",
+      "title": "Hangup Purple Full Sleeves Regular Fit Kurta Set",
+      "price": 2000,
+      "rating": 2.7
+    },
+    {
+      "id": 78,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000012343039_437Wx649H_202203040322581.jpeg",
+      "brand": "Allen cooper",
+      "title": "Allen Cooper Men's Blue Casual Sneakers",
+      "price": 1571,
+      "rating": 3.8
+    },
+    {
+      "id": 79,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000012343039_437Wx649H_202203040322581.jpeg",
+      "brand": "Allen cooper",
+      "title": "Allen Cooper Men's Blue Casual Sneakers",
+      "price": 1571,
+      "rating": 3.8
+    },
+    {
+      "id": 80,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011497706_437Wx649H_202112172045241.jpeg",
+      "brand": "New Balance",
+      "title": "New Balance Men's Anthracite Black Running Shoes",
+      "price": 1540,
+      "rating": 3.7
+    },
+    {
+      "id": 81,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000012148497_437Wx649H_202301180103561.jpeg",
+      "brand": "Crocs",
+      "title": "Crocs Men's Classic Black Flip Flops",
+      "price": 1396,
+      "rating": 3.8
+    },
+    {
+      "id": 82,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000011433908_437Wx649H_202212011130001.jpeg",
+      "brand": "Red Tape",
+      "title": "Red Tape Men's Collegiate Navy Thong Sandals",
+      "price": 1799,
+      "rating": 3.9
+    },
+    {
+      "id": 83,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000008710390_437Wx649H_202102030003111.jpeg",
+      "brand": "U.S. Polo Assn.",
+      "title": "U.S. Polo Assn. Dark Blue Whiskered Slim Fit Jeans - Flexi Collection",
+      "price": 1818,
+      "rating": 4.2
+    },
+    {
+      "id": 84,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011322237_437Wx649H_202112041255131.jpeg",
+      "brand": "Crocs",
+      "title": "Crocs Men's Classic Blue Casual Sandals",
+      "price": 8399,
+      "rating": 4.5
+    },
+    {
+      "id": 85,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000010581623_437Wx649H_202204040211031.jpeg",
+      "brand": "Wrangler",
+      "title": "Wrangler Black & Olive Camo Print Reversible Hooded Jacket",
+      "price": 2499,
+      "rating": 4
+    },
+    {
+      "id": 86,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000008601858_437Wx649H_202101200100431.jpeg",
+      "brand": "Woodland",
+      "title": "Woodland Grey Regular Fit High Neck Jacket",
+      "price": 809,
+      "rating": 4.8
+    },
+    {
+      "id": 87,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011335662_437Wx649H_202112041541411.jpeg",
+      "brand": "Koryak",
+      "title": "Koryak Black Solid Windcheater Jacket",
+      "price": 1838,
+      "rating": 3.8
+    },
+    {
+      "id": 88,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012862910_437Wx649H_202204191632591.jpeg",
+      "brand": "U.S. Polo Assn.",
+      "title": "U.S. Polo Assn. Men's LEBRON 3.0 Grey Casual Sneakers",
+      "price": 2665,
+      "rating": 3.1
+    },
+    {
+      "id": 89,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000008444617_437Wx649H_202012251433361.jpeg",
+      "brand": "WES Formals",
+      "title": "WES Formals by Westside Light Khaki Carrot Fit Trousers",
+      "price": 1499,
+      "rating": 4.1
+    },
+    {
+      "id": 90,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000011945694_437Wx649H_202201311655561.jpeg",
+      "brand": "Puma",
+      "title": "Puma Red Polo T-Shirt",
+      "price": 3499,
+      "rating": 3
+    },
+    {
+      "id": 91,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000008746491_437Wx649H_202112181103041.jpeg",
+      "brand": "Puma",
+      "title": "Puma Unisex Flair Peacoat Navy Running Shoes",
+      "price": 649,
+      "rating": 4
+    },
+    {
+      "id": 92,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012133948_437Wx649H_202202151207421.jpeg",
+      "brand": "Woodland",
+      "title": "Woodland Men's Khaki Casual Shoes",
+      "price": 4799,
+      "rating": 4
+    },
+    {
+      "id": 93,
+      "image": "https://img.tatacliq.com/images/i2/437Wx649H/MP000000002384448_437Wx649H_20180208023323.jpeg",
+      "brand": "Puma",
+      "title": "Puma Velocity IDP White & Black Running Shoes",
+      "price": 1815,
+      "rating": 4
+    },
+    {
+      "id": 94,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013794693_437Wx649H_202207150524271.jpeg",
+      "brand": "Puma",
+      "title": "Puma Men's Future Rider Play On Shadow Grey Casual Sneakers",
+      "price": 5599,
+      "rating": 4.2
+    },
+    {
+      "id": 95,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011497877_437Wx649H_202112172054231.jpeg",
+      "brand": "New Balance",
+      "title": "New Balance Men's LOWKY Royal Blue Running Shoes",
+      "price": 4199,
+      "rating": 3.7
+    },
+    {
+      "id": 96,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014530388_437Wx649H_202209181703121.jpeg",
+      "brand": "Louis Philippe Sport",
+      "title": "Louis Philippe Sport Black Cotton Slim Fit Polo T-Shirt",
+      "price": 584,
+      "rating": 4.3
+    },
+    {
+      "id": 97,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014089286_437Wx649H_202208091336331.jpeg",
+      "brand": "Jack & Jones",
+      "title": "Jack & Jones Black Low Rise Jeans",
+      "price": 1649,
+      "rating": 4.2
+    },
+    {
+      "id": 98,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014115326_437Wx649H_202208120321291.jpeg",
+      "brand": "Louis Philippe",
+      "title": "Louis Philippe Blue Cotton Slim Fit Striped Shirt",
+      "price": 2549,
+      "rating": 5
+    },
+    {
+      "id": 99,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015048642_437Wx649H_202210271842451.jpeg",
+      "brand": "U.S. Polo Assn.",
+      "title": "U.S. Polo Assn. Red Cotton Regular Fit Checks Shirt",
+      "price": 1119,
+      "rating": 2.7
+    },
+    {
+      "id": 100,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011531933_437Wx649H_202112212014551.jpeg",
+      "brand": "Red Tape",
+      "title": "Red Tape White Cotton Skinny Fit Jeans",
+      "price": 899,
+      "rating": 4
+    },
+    {
+      "id": 101,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014425015_437Wx649H_202209112008591.jpeg",
+      "brand": "U.S. Polo Assn.",
+      "title": "U.S. Polo Assn. Navy Cotton Regular Fit Checks Shirt",
+      "price": 1689,
+      "rating": 4.8
+    },
+    {
+      "id": 102,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012830974_437Wx649H_202204142133511.jpeg",
+      "brand": "Jack & Jones",
+      "title": "Jack & Jones Pink Printed T-Shirt",
+      "price": 1679,
+      "rating": 3.8
+    },
+    {
+      "id": 103,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010368972_437Wx649H_202203100000241.jpeg",
+      "brand": "WES Casuals",
+      "title": "WES Casuals by Westside Black Slim Fit Shirt",
+      "price": 1299,
+      "rating": 4.4
+    },
+    {
+      "id": 104,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012261512_437Wx649H_202202242038091.jpeg",
+      "brand": "Levi's",
+      "title": "Levi's 511 Black Slim Fit Jeans",
+      "price": 1399,
+      "rating": 3.7
+    },
+    {
+      "id": 105,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000012147040_437Wx649H_202301180046531.jpeg",
+      "brand": "Crocs",
+      "title": "Crocs Men's Classic Bone White Casual Sandals",
+      "price": 1560,
+      "rating": 3.7
+    },
+    {
+      "id": 106,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010651832_437Wx649H_202109191633261.jpeg",
+      "brand": "ETA",
+      "title": "ETA by Westside Olive Slim Fit Chinos",
+      "price": 2376,
+      "rating": 4
+    },
+    {
+      "id": 107,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000008483051_437Wx649H_202101062025431.jpeg",
+      "brand": "Nuon Men",
+      "title": "Nuon by Westside Blue Whiskering Rodeo Carrot Fit Jeans",
+      "price": 1769,
+      "rating": 3.3
+    },
+    {
+      "id": 108,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012133760_437Wx649H_202202151156491.jpeg",
+      "brand": "Woodland",
+      "title": "Woodland Men's Olive Green Casual Boots",
+      "price": 3596,
+      "rating": 4.1
+    },
+    {
+      "id": 109,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012807546_437Wx649H_202212011130061.jpeg",
+      "brand": "Red Tape",
+      "title": "Red Tape Men's Tan Thong Sandals",
+      "price": 1250,
+      "rating": 4.4
+    },
+    {
+      "id": 110,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012807546_437Wx649H_202212011130061.jpeg",
+      "brand": "Red Tape",
+      "title": "Red Tape Men's Tan Thong Sandals",
+      "price": 1250,
+      "rating": 4.4
+    },
+    {
+      "id": 111,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000011910145_437Wx649H_202201271548021.jpeg",
+      "brand": "Nuon Men",
+      "title": "Nuon by Westside Light Blue Carrot-Fit Jogger-Style Jeans",
+      "price": 4799,
+      "rating": 3.7
+    },
+    {
+      "id": 112,
+      "image": "https://img.tatacliq.com/images/i3/437Wx649H/MP000000004681316_437Wx649H_20190418085533.jpeg",
+      "brand": "Puma",
+      "title": "Puma Caper NU IDP Caper NU IDP Iron Gate Flip Flops",
+      "price": 699,
+      "rating": 3.9
+    },
+    {
+      "id": 113,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010622194_437Wx649H_202109170204431.jpeg",
+      "brand": "Arrow",
+      "title": "Arrow Grey Regular Fit Jacket",
+      "price": 999,
+      "rating": 4
+    },
+    {
+      "id": 114,
+      "image": "https://img.tatacliq.com/images/i4/437Wx649H/MP000000005179340_437Wx649H_20190802082221.jpeg",
+      "brand": "Campus Sutra",
+      "title": "Campus Sutra Navy Slim Fit Joggers",
+      "price": 999,
+      "rating": 3
+    },
+    {
+      "id": 115,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000011843471_437Wx649H_202201210325271.jpeg",
+      "brand": "Louis Philippe",
+      "title": "Louis Philippe White Cotton Regular Fit Self Pattern Shirt",
+      "price": 1560,
+      "rating": 4.2
+    },
+    {
+      "id": 116,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010748966_437Wx649H_202109282241491.jpeg",
+      "brand": "Puma",
+      "title": "Puma Grey Full Sleeves Jacket",
+      "price": 3249,
+      "rating": 3.3
+    },
+    {
+      "id": 117,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000011719340_437Wx649H_202201081848581.jpeg",
+      "brand": "Skechers",
+      "title": "Skechers Men's SWIFTERS Black Back Strap Clogs",
+      "price": 4197,
+      "rating": 3.6
+    },
+    {
+      "id": 118,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000001834551_437Wx649H_202212152011201.jpeg",
+      "brand": "Red Chief",
+      "title": "Red Chief Men's Black Derby Boots",
+      "price": 1099,
+      "rating": 4.2
+    },
+    {
+      "id": 119,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011712101_437Wx649H_202201080631511.jpeg",
+      "brand": "Skechers",
+      "title": "Skechers Men's ULTRA GROOVE TEMPLAR Green Casual Slip-Ons",
+      "price": 3899,
+      "rating": 3.3
+    },
+    {
+      "id": 120,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010980951_437Wx649H_202110220338591.jpeg",
+      "brand": "adidas",
+      "title": "adidas Blue Full Sleeves Jacket",
+      "price": 1840,
+      "rating": 4.1
+    },
+    {
+      "id": 121,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000003394476_437Wx649H_202210300136491.jpeg",
+      "brand": "Woodland",
+      "title": "Woodland Men's Camel Casual Boots",
+      "price": 2229,
+      "rating": 4.6
+    },
+    {
+      "id": 122,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010749727_437Wx649H_202109282320061.jpeg",
+      "brand": "adidas",
+      "title": "Adidas Men's Magnificeo M Blue Running Shoes",
+      "price": 2229,
+      "rating": 3.5
+    },
+    {
+      "id": 123,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013734213_437Wx649H_202207082032321.jpeg",
+      "brand": "adidas",
+      "title": "Adidas Men's SUPERNOVA 2 Ash Grey Running Shoes",
+      "price": 3959,
+      "rating": 4.5
+    },
+    {
+      "id": 124,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013746697_437Wx649H_202207100049231.jpeg",
+      "brand": "Skechers",
+      "title": "Skechers Men's NEVILLE White & Black Casual Sneakers",
+      "price": 6399,
+      "rating": 3.8
+    },
+    {
+      "id": 125,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000012385169_437Wx649H_202203062113221.jpeg",
+      "brand": "U.S. Polo Assn.",
+      "title": "U.S. Polo Assn. Blue Regular Fit Jeans",
+      "price": 1574,
+      "rating": 4
+    },
+    {
+      "id": 126,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013777204_437Wx649H_202207140933121.jpeg",
+      "brand": "Levi's",
+      "title": "Levi'S Navy Slim Fit Printed Shirts",
+      "price": 1439,
+      "rating": 4
+    },
+    {
+      "id": 127,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012486693_437Wx649H_202203161908511.jpeg",
+      "brand": "United Colors of Benetton",
+      "title": "United Colors of Benetton Red Crew T-Shirt",
+      "price": 1349,
+      "rating": 3
+    },
+    {
+      "id": 128,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013383478_437Wx649H_202206110442401.jpeg",
+      "brand": "Levi's",
+      "title": "Levi's Green Slim Fit Shirt",
+      "price": 1379,
+      "rating": 3
+    },
+    {
+      "id": 129,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012059021_437Wx649H_202202161254011.jpeg",
+      "brand": "Jack & Jones",
+      "title": "Jack & Jones Pink Slim Fit Shirt",
+      "price": 1532,
+      "rating": 3.9
+    },
+    {
+      "id": 130,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000010583645_437Wx649H_202204040158191.jpeg",
+      "brand": "Lee",
+      "title": "Lee White & Olive Colour-Block T-Shirt",
+      "price": 584,
+      "rating": 4
+    }
+  ],
+  "womensproduct": [
+    {
+      "id": 1,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012759008_437Wx649H_202204082156071.jpeg",
+      "brand": "LOV",
+      "title": "LOV by Westside Lilac High-Low Shirt",
+      "price": 999,
+      "rating": 4.6
+    },
+    {
+      "id": 2,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010757356_437Wx649H_202109291247381.jpeg",
+      "brand": "Scholl",
+      "title": "Scholl by Bata Women's Maroon Thong Wedges",
+      "price": 849,
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012712461_437Wx649H_202204031610131.jpeg",
+      "brand": "LOV",
+      "title": "LOV by Westside White Shaina Jacket",
+      "price": 999,
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "image": "https://img.tatacliq.com/images/437Wx649H/MP000000000242098_437Wx649H_20160612121858.jpeg",
+      "brand": "Fusion Beats",
+      "title": "Fusion Beats Purple Printed Top",
+      "price": 328,
+      "rating": 3.7
+    },
+    {
+      "id": 5,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012158113_437Wx649H_202212011135041.jpeg",
+      "brand": "Red Tape",
+      "title": "Red Tape Women's Blue Running Shoes",
+      "price": 1589,
+      "rating": 3
+    },
+    {
+      "id": 6,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000012965047_437Wx649H_202301071930381.jpeg",
+      "brand": "Anvi Be Yourself",
+      "title": "Anvi Be Yourself Pattern Pink Self Pattern A-Line Dress",
+      "price": 1553,
+      "rating": 3.5
+    },
+    {
+      "id": 7,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000009330550_437Wx649H_202104132252231.jpeg",
+      "brand": "DOLCE CRUDO",
+      "title": "DOLCE CRUDO Black Skinny Fit Jeans",
+      "price": 960,
+      "rating": 4.1
+    },
+    {
+      "id": 8,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010954301_437Wx649H_202110201117061.jpeg",
+      "brand": "Carlton London",
+      "title": "CL Sport by Carlton London Women's Nude Thong Sandals",
+      "price": 649,
+      "rating": 3.7
+    },
+    {
+      "id": 9,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012583398_437Wx649H_202203241432161.jpeg",
+      "brand": "Cottinfab",
+      "title": "Cottinfab Black Embellished Dress",
+      "price": 1890,
+      "rating": 4
+    },
+    {
+      "id": 10,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000011760297_437Wx649H_202201141342101.jpeg",
+      "brand": "LUNA BLU",
+      "title": "LUNA BLU by Westside Beige Artisanal-Embellished Slides",
+      "price": 1549,
+      "rating": 4.3
+    },
+    {
+      "id": 11,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013747505_437Wx649H_202207100150231.jpeg",
+      "brand": "Skechers",
+      "title": "Skechers Women's UNO Grey Camo Sneakers",
+      "price": 4249,
+      "rating": 4.7
+    },
+    {
+      "id": 12,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012584785_437Wx649H_202203242247341.jpeg",
+      "brand": "Studiofit Women",
+      "title": "Studiofit by Westside Black Text Design Joggers",
+      "price": 599,
+      "rating": 3.8
+    },
+    {
+      "id": 13,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000012380191_437Wx649H_202203061400141.jpeg",
+      "brand": "adidas",
+      "title": "Adidas Women's Runesy Sky Blue Running Shoes",
+      "price": 2279,
+      "rating": 3.5
+    },
+    {
+      "id": 14,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015496613_437Wx649H_202211292331521.jpeg",
+      "brand": "Ginger by Lifestyle",
+      "title": "Ginger by Lifestyle Women's Black Flat Ballets",
+      "price": 759,
+      "rating": 4.5
+    },
+    {
+      "id": 15,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000008976820_437Wx649H_202105221640091.jpeg",
+      "brand": "Ishin",
+      "title": "Ishin Navy Embroidered Kurta Palazzo Set With Jacket",
+      "price": 1699,
+      "rating": 4.3
+    },
+    {
+      "id": 16,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014847181_437Wx649H_202210131821111.jpeg",
+      "brand": "Zuba",
+      "title": "Zuba by Westside Turquoise Floral Print A-line Kurta",
+      "price": 2699,
+      "rating": 5
+    },
+    {
+      "id": 17,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014722828_437Wx649H_202210010427241.jpeg",
+      "brand": "Inc.5",
+      "title": "Inc.5 Women's Antique Gold Thong Wedges",
+      "price": 1319,
+      "rating": 4.7
+    },
+    {
+      "id": 18,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015234030_437Wx649H_202211092256471.jpeg",
+      "brand": "Gia",
+      "title": "Gia Curves by Westside Light Khaki Flared Jeans",
+      "price": 2021,
+      "rating": 5
+    },
+    {
+      "id": 19,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014642082_437Wx649H_202209252213081.jpeg",
+      "brand": "Metro",
+      "title": "Metro Women's Antique Gold Thong Wedges",
+      "price": 1095,
+      "rating": 3
+    },
+    {
+      "id": 20,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014756845_437Wx649H_202210042212461.jpeg",
+      "brand": "Satrani",
+      "title": "Satrani Green Saree With Unstitched Blouse",
+      "price": 309,
+      "rating": 5
+    },
+    {
+      "id": 21,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013890616_437Wx649H_202207230523521.jpeg",
+      "brand": "Aldo",
+      "title": "Aldo Women's Pink Casual Sandals",
+      "price": 3190,
+      "rating": 4.5
+    },
+    {
+      "id": 22,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014668070_437Wx649H_202209281937431.jpeg",
+      "brand": "Melon by PlusS",
+      "title": "Melon by PlusS Black Printed Skirt",
+      "price": 817,
+      "rating": 3.4
+    },
+    {
+      "id": 23,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014760918_437Wx649H_202210051523321.jpeg",
+      "brand": "Club York",
+      "title": "Club York White Regular Fit Cardigan",
+      "price": 689,
+      "rating": 4
+    },
+    {
+      "id": 24,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000014896571_437Wx649H_202212131845271.jpeg",
+      "brand": "BlissClub",
+      "title": "BlissClub Forest The Ultimate Leggings",
+      "price": 1586,
+      "rating": 4.5
+    },
+    {
+      "id": 25,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014706916_437Wx649H_202209300637381.jpeg",
+      "brand": "Juniper",
+      "title": "Juniper Yellow Cotton Printed Kurta With Pants & Dupatta",
+      "price": 1600,
+      "rating": 5
+    },
+    {
+      "id": 26,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011184806_437Wx649H_202111171240251.jpeg",
+      "brand": "Anubhutee",
+      "title": "Anubhutee Navy Printed Straight Kurti",
+      "price": 499,
+      "rating": 3.2
+    },
+    {
+      "id": 27,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011485292_437Wx649H_202112162203061.jpeg",
+      "brand": "Ishin",
+      "title": "Ishin Women's Multicolor Floral Bishop Sleeve Top",
+      "price": 1999,
+      "rating": 4
+    },
+    {
+      "id": 28,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000008887897_437Wx649H_202102231920321.jpeg",
+      "brand": "Ishin",
+      "title": "Ishin Grey Printed High Low Kurta",
+      "price": 699,
+      "rating": 3.4
+    },
+    {
+      "id": 29,
+      "image": "https://img.tatacliq.com/images/i6/437Wx649H/MP000000006411693_437Wx649H_20200130075854.jpeg",
+      "brand": "Metro",
+      "title": "Metro Women's Black & White Sling Back Sandals",
+      "price": 849,
+      "rating": 4.1
+    },
+    {
+      "id": 30,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010430854_437Wx649H_202108270525431.jpeg",
+      "brand": "Sera",
+      "title": "Sera Black Printed Dress",
+      "price": 550,
+      "rating": 3.2
+    },
+    {
+      "id": 31,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000012407386_437Wx649H_202203091207551.jpeg",
+      "brand": "Mochi",
+      "title": "Mochi Women's Black Thong Wedges",
+      "price": 1095,
+      "rating": 4.8
+    },
+    {
+      "id": 32,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011543397_437Wx649H_202112222320231.jpeg",
+      "brand": "Cottinfab",
+      "title": "Cottinfab Blue Half Sleeve Shirt",
+      "price": 680,
+      "rating": 4.4
+    },
+    {
+      "id": 33,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012800094_437Wx649H_202204131013371.jpeg",
+      "brand": "LUNA BLU",
+      "title": "LUNA BLU by Westside White Faux Leather Sneakers",
+      "price": 1194,
+      "rating": 3.8
+    },
+    {
+      "id": 34,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010954327_437Wx649H_202110201118021.jpeg",
+      "brand": "Carlton London",
+      "title": "CL Sport by Carlton London Women's Grey Thong Sandals",
+      "price": 649,
+      "rating": 3.7
+    },
+    {
+      "id": 35,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010849825_437Wx649H_202110090143191.jpeg",
+      "brand": "Rustorange",
+      "title": "Rustorange Black Bloom Gathered Dress",
+      "price": 880,
+      "rating": 3.9
+    },
+    {
+      "id": 36,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012617664_437Wx649H_202203270431151.jpeg",
+      "brand": "Studiofit Women",
+      "title": "Studiofit by Westside Plum Text Print Hooded Dress",
+      "price": 599,
+      "rating": 4.8
+    },
+    {
+      "id": 37,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015351060_437Wx649H_202211201955051.jpeg",
+      "brand": "Campus",
+      "title": "Campus Women's CAMP-KITE Black Running Shoes",
+      "price": 999,
+      "rating": 4.7
+    },
+    {
+      "id": 38,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013865878_437Wx649H_202207212145541.jpeg",
+      "brand": "Puma",
+      "title": "Puma Evostripe Evostripe Pink Cotton Track Pants",
+      "price": 2099,
+      "rating": 4.5
+    },
+    {
+      "id": 39,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015419559_437Wx649H_202211232224371.jpeg",
+      "brand": "LUNA BLU",
+      "title": "Luna Blu by Westside Taupe Peep Toe Heeled Sandals",
+      "price": 699,
+      "rating": 5
+    },
+    {
+      "id": 40,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000015842766_437Wx649H_202212250836431.jpeg",
+      "brand": "Code by Lifestyle",
+      "title": "Code by Lifestyle Beige Printed Shift Dress",
+      "price": 1679,
+      "rating": 4.7
+    },
+    {
+      "id": 41,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000015761086_437Wx649H_202212190555171.jpeg",
+      "brand": "Clarks",
+      "title": "Clarks Women's Tan Casual Sandals",
+      "price": 599,
+      "rating": 4.1
+    },
+    {
+      "id": 42,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015408826_437Wx649H_202211230212341.jpeg",
+      "brand": "Red Tape",
+      "title": "Red Tape Women's Jet Black Running Shoes",
+      "price": 1659,
+      "rating": 2.6
+    },
+    {
+      "id": 43,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000015697282_437Wx649H_202212150216291.jpeg",
+      "brand": "Forever New",
+      "title": "Forever New Navy Fit & Flare Dress",
+      "price": 699,
+      "rating": 4.1
+    },
+    {
+      "id": 44,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000015676471_437Wx649H_202212110710571.jpeg",
+      "brand": "Mochi",
+      "title": "Mochi Women's Pink Cross Strap Wedges",
+      "price": 1095,
+      "rating": 3.9
+    },
+    {
+      "id": 45,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015233241_437Wx649H_202211091938091.jpeg",
+      "brand": "Cultsport",
+      "title": "Cultsport Black Tights",
+      "price": 1485,
+      "rating": 3
+    },
+    {
+      "id": 46,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013384431_437Wx649H_202206110618081.jpeg",
+      "brand": "Ipanema",
+      "title": "Ipanema Women's Salmon Peach Flip Flops",
+      "price": 449,
+      "rating": 5
+    },
+    {
+      "id": 47,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015282533_437Wx649H_202211131720551.jpeg",
+      "brand": "Saree Mall",
+      "title": "Saree Mall Pink Printed Saree With Unstitched Blouse",
+      "price": 1439,
+      "rating": 5
+    },
+    {
+      "id": 48,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014030030_437Wx649H_202208040049341.jpeg",
+      "brand": "adidas",
+      "title": "Adidas Men's Adi Zoom W Black Running Shoes",
+      "price": 999,
+      "rating": 4.5
+    },
+    {
+      "id": 49,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014442270_437Wx649H_202209132255311.jpeg",
+      "brand": "Melon by PlusS",
+      "title": "Melon by PlusS Olive Regular Fit Trousers",
+      "price": 888,
+      "rating": 4.8
+    },
+    {
+      "id": 50,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015468127_437Wx649H_202211262340171.jpeg",
+      "brand": "Monte Carlo",
+      "title": "Monte Carlo Black Regular Fit Top",
+      "price": 1592,
+      "rating": 4.2
+    },
+    {
+      "id": 51,
+      "image": "https://img.tatacliq.com/images/i4/437Wx649H/MP000000006750220_437Wx649H_20200321000755.jpeg",
+      "brand": "Globus",
+      "title": "Globus Yellow Cotton Top",
+      "price": 799,
+      "rating": 3.3
+    },
+    {
+      "id": 52,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000008451712_437Wx649H_202012261913201.jpeg",
+      "brand": "Geroo Jaipur",
+      "title": "Geroo Jaipur Indigo Hand Block Printed Two Piece Long Pure Cotton Dress",
+      "price": 385,
+      "rating": 4.2
+    },
+    {
+      "id": 53,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000009755538_437Wx649H_202106112158231.jpeg",
+      "brand": "Ipanema",
+      "title": "Ipanema Women's Anat Colors Fem Pink Flip Flops",
+      "price": 479,
+      "rating": 5
+    },
+    {
+      "id": 54,
+      "image": "https://img.tatacliq.com/images/i6/437Wx649H/MP000000007450279_437Wx649H_20200807030225.jpeg",
+      "brand": "Globus",
+      "title": "Globus Blue Printed Top",
+      "price": 999,
+      "rating": 4.5
+    },
+    {
+      "id": 55,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013774264_437Wx649H_202208232249531.jpeg",
+      "brand": "Khushal K",
+      "title": "Khushal K Pink Woven Pattern Kurta Palazzo Set With Dupatta",
+      "price": 1325,
+      "rating": 4.3
+    },
+    {
+      "id": 56,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000011827001_437Wx649H_202201192224451.jpeg",
+      "brand": "Saree Mall",
+      "title": "Saree Mall Off-white Floral Print Saree With Unstitched Blouse",
+      "price": 1089,
+      "rating": 4.3
+    },
+    {
+      "id": 57,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010996255_437Wx649H_202110240543151.jpeg",
+      "brand": "Anubhutee",
+      "title": "Anubhutee Navy & White Embroidered Kurta Palazzo Set",
+      "price": 999,
+      "rating": 3.8
+    },
+    {
+      "id": 58,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010696926_437Wx649H_202109240012391.jpeg",
+      "brand": "Metro",
+      "title": "Metro Women's Brown Formal Pumps",
+      "price": 930,
+      "rating": 3.7
+    },
+    {
+      "id": 59,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010960266_437Wx649H_202110201251011.jpeg",
+      "brand": "Rustorange",
+      "title": "Rustorange Black & Yellow Striped Long Kurta",
+      "price": 1549,
+      "rating": 4.2
+    },
+    {
+      "id": 60,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010795343_437Wx649H_202110020735181.jpeg",
+      "brand": "Cottinfab",
+      "title": "Cottinfab Beige & Black Animal Print Wrap Dress",
+      "price": "das",
+      "rating": 3.7
+    },
+    {
+      "id": 61,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012638095_437Wx649H_202203292239171.jpeg",
+      "brand": "Studiofit Women",
+      "title": "Studiofit by Westside Grey Camouflage Print Hooded Dress",
+      "price": 599,
+      "rating": 4.6
+    },
+    {
+      "id": 62,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013720239_437Wx649H_202207072058391.jpeg",
+      "brand": "Gia",
+      "title": "Gia Curves by Westside Navy Tapered Pants",
+      "price": 999,
+      "rating": 4.6
+    },
+    {
+      "id": 63,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015444667_437Wx649H_202211251322371.jpeg",
+      "brand": "Ginger by Lifestyle",
+      "title": "Ginger by Lifestyle Teal Blue Regular Fit Top",
+      "price": 3499,
+      "rating": 4
+    },
+    {
+      "id": 64,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013753729_437Wx649H_202207121215531.jpeg",
+      "brand": "LUNA BLU",
+      "title": "LUNA BLU by Westside Navy Floral Sling-Back Sandals",
+      "price": 2519,
+      "rating": 3.8
+    },
+    {
+      "id": 65,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013567705_437Wx649H_202207020733231.jpeg",
+      "brand": "Bombay Paisley",
+      "title": "Bombay Paisley by Westside Dusty Pink Floral Design Dress",
+      "price": 599,
+      "rating": 4.2
+    },
+    {
+      "id": 66,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012584753_437Wx649H_202203242243491.jpeg",
+      "brand": "Studiofit Women",
+      "title": "Studiofit by Westside Purple Panel-Detailed Joggers",
+      "price": 374,
+      "rating": 4.1
+    },
+    {
+      "id": 67,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015562266_437Wx649H_202212040322391.jpeg",
+      "brand": "LUNA BLU",
+      "title": "LUNA BLU by Westside Gold Cut-Out Slides",
+      "price": 1199,
+      "rating": 3.4
+    },
+    {
+      "id": 68,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000015663398_437Wx649H_202212102024011.jpeg",
+      "brand": "Monte Carlo",
+      "title": "Monte Carlo Black Denim Jacket",
+      "price": 10400,
+      "rating": 5
+    },
+    {
+      "id": 69,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015495321_437Wx649H_202211292223031.jpeg",
+      "brand": "Ginger by Lifestyle",
+      "title": "Ginger by Lifestyle Women's Pink Running Shoes",
+      "price": 1274,
+      "rating": 4.2
+    },
+    {
+      "id": 70,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014975099_437Wx649H_202210220106141.jpeg",
+      "brand": "Cottinfab",
+      "title": "Cottinfab Black Embellished Dhoti Jumpsuit",
+      "price": 1340,
+      "rating": 4.3
+    },
+    {
+      "id": 71,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000015703839_437Wx649H_202212150822511.jpeg",
+      "brand": "Nuon Women",
+      "title": "Nuon by Westside Multicoloured Ribbed Top",
+      "price": 1979,
+      "rating": 5
+    },
+    {
+      "id": 72,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000015974192_437Wx649H_202301061535531.jpeg",
+      "brand": "NEUDIS",
+      "title": "NEUDIS White Shirt",
+      "price": 999,
+      "rating": 2.9
+    },
+    {
+      "id": 73,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013929525_437Wx649H_202207270627071.jpeg",
+      "brand": "Bata",
+      "title": "Bata Women's Brown Flip Flops",
+      "price": 499,
+      "rating": 3.8
+    },
+    {
+      "id": 74,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014304829_437Wx649H_202209011004381.jpeg",
+      "brand": "Vero Moda",
+      "title": "Vero Moda Light Grey Printed Sweatshirt",
+      "price": 999,
+      "rating": 4.2
+    },
+    {
+      "id": 75,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015550795_437Wx649H_202212030103521.jpeg",
+      "brand": "W",
+      "title": "W Blue & White Geometric Print Straight Kurta",
+      "price": 679,
+      "rating": 4.9
+    },
+    {
+      "id": 76,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011484600_437Wx649H_202112162128581.jpeg",
+      "brand": "Hunkemoller",
+      "title": "Hunkemoller Black Night Dress",
+      "price": 1435,
+      "rating": 4.6
+    },
+    {
+      "id": 77,
+      "image": "https://img.tatacliq.com/images/437Wx649H/MP000000000242082_437Wx649H_20160612121704.jpeg",
+      "brand": "Fusion Beats",
+      "title": "Fusion Beats Beige Self Printed Sleeveless Tunic",
+      "price": 1999,
+      "rating": 5
+    },
+    {
+      "id": 78,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012529359_437Wx649H_202203190632131.jpeg",
+      "brand": "YASH GALLERY",
+      "title": "YASH GALLERY Blue Cotton Floral Print A-Line Dress",
+      "price": 821,
+      "rating": 4.6
+    },
+    {
+      "id": 79,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012758429_437Wx649H_202204082120231.jpeg",
+      "brand": "LOV",
+      "title": "LOV by Westside Dark Blue Cropped Reggie Jeans",
+      "price": 1990,
+      "rating": 3.7
+    },
+    {
+      "id": 80,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000008676884_437Wx649H_202101282246071.jpeg",
+      "brand": "Saree Mall",
+      "title": "Saree Mall Green Zari Work Saree With Unstitched Blouse",
+      "price": 399,
+      "rating": 3
+    },
+    {
+      "id": 81,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012926902_437Wx649H_202204261012441.jpeg",
+      "brand": "Wunderlove",
+      "title": "Wunderlove by Westside Light Peach Schiffli Design Bra",
+      "price": 599,
+      "rating": 3.5
+    },
+    {
+      "id": 82,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000009126407_437Wx649H_202103202040451.jpeg",
+      "brand": "adidas",
+      "title": "Adidas Black & White Striped Trackpants",
+      "price": 599,
+      "rating": 4.1
+    },
+    {
+      "id": 83,
+      "image": "https://img.tatacliq.com/images/i6/437Wx649H/MP000000006411963_437Wx649H_20200130082347.jpeg",
+      "brand": "Mochi",
+      "title": "Mochi Women's Tan Toe Ring Sandals",
+      "price": 1399,
+      "rating": 3.7
+    },
+    {
+      "id": 84,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013270603_437Wx649H_202205271911531.jpeg",
+      "brand": "Laabha",
+      "title": "Laabha Black Cotton Embroidered Tracksuit",
+      "price": 1199,
+      "rating": 4
+    },
+    {
+      "id": 85,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010406427_437Wx649H_202108251314331.jpeg",
+      "brand": "₹720",
+      "title": "Adidas Blue Cotton Yoga Pants",
+      "price": 1299,
+      "rating": 4.3
+    },
+    {
+      "id": 86,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013903551_437Wx649H_202208232114571.jpeg",
+      "brand": "Gia",
+      "title": "Gia Curves by Westside Dark Green Lace-Design T-Shirt",
+      "price": 699,
+      "rating": 4.7
+    },
+    {
+      "id": 87,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012584772_437Wx649H_202203242247071.jpeg",
+      "brand": "Studiofit Women",
+      "title": "Studiofit by Westside Olive Text-Patterned Joggers",
+      "price": 599,
+      "rating": 3.8
+    },
+    {
+      "id": 88,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000015761232_437Wx649H_202212190602311.jpeg",
+      "brand": "Clarks",
+      "title": "Clarks Women's Navy Back Strap Wedges",
+      "price": 699,
+      "rating": 3.5
+    },
+    {
+      "id": 89,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000015791294_437Wx649H_202212212044221.jpeg",
+      "brand": "Femella",
+      "title": "Femella Black Regular Fit Midi Dress",
+      "price": 1499,
+      "rating": 4.5
+    },
+    {
+      "id": 90,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012615943_437Wx649H_202203270255311.jpeg",
+      "brand": "LOV",
+      "title": "LOV by Westside Blue Checkered Blouse",
+      "price": 699,
+      "rating": 4.3
+    },
+    {
+      "id": 91,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015495623_437Wx649H_202211292238481.jpeg",
+      "brand": "Ginger by Lifestyle",
+      "title": "Ginger by Lifestyle Women's Pink Flip Flops",
+      "price": 2599,
+      "rating": 5
+    },
+    {
+      "id": 92,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015282312_437Wx649H_202211131714441.jpeg",
+      "brand": "Saree Mall",
+      "title": "Saree Mall Pink & Black Cotton Silk Woven Saree With Unstitched Blouse",
+      "price": 2690,
+      "rating": 4.7
+    },
+    {
+      "id": 93,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015280666_437Wx649H_202211131447131.jpeg",
+      "brand": "Utsa",
+      "title": "Utsa by Westside Charcoal Floral Design A-Line Kurta",
+      "price": 1799,
+      "rating": 5
+    },
+    {
+      "id": 94,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015496728_437Wx649H_202211292337551.jpeg",
+      "brand": "Ginger by Lifestyle",
+      "title": "Ginger by Lifestyle Women's Tan Mule Shoes",
+      "price": 1124,
+      "rating": 4.6
+    },
+    {
+      "id": 95,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015301544_437Wx649H_202211161423201.jpeg",
+      "brand": "Levi's",
+      "title": "Levi's Brown Tapered Fit High Rise Trousers",
+      "price": 2749,
+      "rating": 5
+    },
+    {
+      "id": 96,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000015408743_437Wx649H_202211230208311.jpeg",
+      "brand": "Red Tape",
+      "title": "Red Tape Women's Multicolored Running Shoes",
+      "price": 699,
+      "rating": 3
+    },
+    {
+      "id": 97,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014028475_437Wx649H_202208032241541.jpeg",
+      "brand": "adidas",
+      "title": "Adidas Men's Ultra Strike M Black Running Shoes",
+      "price": 11999,
+      "rating": 4.1
+    },
+    {
+      "id": 98,
+      "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000015613372_437Wx649H_202212081525431.jpeg",
+      "brand": "Utsa",
+      "title": "Utsa by Westside Brown Diamond Pattern Cotton Palazzos",
+      "price": 11999,
+      "rating": 3.7
+    },
+    {
+      "id": 99,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014645746_437Wx649H_202209260522251.jpeg",
+      "brand": "Gia",
+      "title": "Gia Curves by Westside Teal Flared Pants",
+      "price": 599,
+      "rating": 4
+    },
+    {
+      "id": 100,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012504441_437Wx649H_202203172132261.jpeg",
+      "brand": "Puma",
+      "title": "PUMA x Royal Challengers Bangalore Fan Women's Jersey 2022",
+      "price": 709,
+      "rating": 4.3
+    }
+  ],
+  "gadgetsproduct": [
+    {
+      "id": 1,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011272733_437Wx649H_202111261244231.jpeg",
+      "brand": "Polycab",
+      "title": "Polycab Hohm Mirai IR Wi-Fi Blaster (Black)",
+      "price": 1099,
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012542369_437Wx649H_202203201215271.jpeg",
+      "brand": "EcoLink",
+      "title": "EcoLink Genius 25W 3 Feet Wall Light (Cool White)",
+      "price": 1270,
+      "rating": 4.1
+    },
+    {
+      "id": 3,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000008435222_437Wx649H_202112201800471.jpeg",
+      "brand": "Zebronics",
+      "title": "Zebronics Zeb-SP116 16A Smart Wi-Fi Plug Compatible with Google Assistant and Alexa (White)",
+      "price": 849,
+      "rating": 3.7
+    },
+    {
+      "id": 4,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011380593_437Wx649H_202112072322251.jpeg",
+      "brand": "Wipro",
+      "title": "Wipro Garnet NS9400 B22 9W Wi-Fi Smart LED Bulb (White)",
+      "price": 759,
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "image": "https://img.tatacliq.com/images/i4/437Wx649H/MP000000006181286_437Wx649H_20191221134119.jpeg",
+      "brand": "Syska",
+      "title": "Syska SSK-SMW-SL4 25W Smart Strip Light Compatible with Alexa and Google Assistant (Multicolor)",
+      "price": 3084,
+      "rating": 3.5
+    },
+    {
+      "id": 6,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011230564_437Wx649H_202112100114331.jpeg",
+      "brand": "Qubo",
+      "title": "Qubo Baby Cam HCB01 1080p Smart Wi-Fi Camera (Black)",
+      "price": 3990,
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012542385_437Wx649H_202203201245341.jpeg",
+      "brand": "HomeMate",
+      "title": "HomeMate WiFi Smart Plug 16A Socket (White)",
+      "price": 889,
+      "rating": 4.1
+    },
+    {
+      "id": 8,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012542423_437Wx649H_202203201254121.jpeg",
+      "brand": "HomeMate",
+      "title": "HomeMate Wi-Fi and Bluetooth Smart Switch Breaker (White)",
+      "price": 589,
+      "rating": 3.7
+    },
+    {
+      "id": 9,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013256931_437Wx649H_202205261817151.jpeg",
+      "brand": "zunpulse",
+      "title": "zunpulse Wi-Fi Smart LED Battern (White)",
+      "price": 599,
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012542450_437Wx649H_202203201258331.jpeg",
+      "brand": "HomeMate",
+      "title": "HomeMate 10A Smart Power Strip Works with Google Assistant and Alexa (White)",
+      "price": 1979,
+      "rating": 3.5
+    },
+    {
+      "id": 11,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013179701_437Wx649H_202205191736381.jpeg",
+      "brand": "Godrej",
+      "title": "Godrej 8127  Ultra Tribolt 1ck Satin Nickel Key Door Lock (Silver)",
+      "price": 2799,
+      "rating": 5
+    },
+    {
+      "id": 12,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000006181281_437Wx649H_202112251940541.jpeg",
+      "brand": "Syska",
+      "title": "Syska SSK-SMW-P 9W 3-in-1 Smart LED Pumpkin Bulb with Voice Assistant (White)",
+      "price": 385,
+      "rating": 4.1
+    },
+    {
+      "id": 13,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011218697_437Wx649H_202111192011411.jpeg",
+      "brand": "Philips",
+      "title": "Philips Orbit 581932 5W Rechargeable Table Lamp (White)",
+      "price": 799,
+      "rating": 3.7
+    },
+    {
+      "id": 14,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012934594_437Wx649H_202205191750311.jpeg",
+      "brand": "CP Plus",
+      "title": "CP PLUS Wi-Fi PT Camera with Alexa & Google, Full HD, 360°View, Motion Tracking, Night V SD Support",
+      "price": 2499,
+      "rating": 4.5
+    },
+    {
+      "id": 15,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012337719_437Wx649H_202203031501011.jpeg",
+      "brand": "GM",
+      "title": "GM 3253 I-Croft 4+1 Power Strip with Master Switch, 4 International Socket (White and Red)",
+      "price": 2409,
+      "rating": 3.5
+    },
+    {
+      "id": 16,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011380595_437Wx649H_202112072322261.jpeg",
+      "brand": "Wipro",
+      "title": "Wipro Garnet NS9100 B22 9W Wi-Fi Smart LED Bulb (White)",
+      "price": 789,
+      "rating": 4
+    },
+    {
+      "id": 17,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012542386_437Wx649H_202203201245351.jpeg",
+      "brand": "HomeMate",
+      "title": "HomeMate Wi-Fi Smart IR Control Hub (Black)",
+      "price": 999,
+      "rating": 3.7
+    },
+    {
+      "id": 18,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012542394_437Wx649H_202203201245401.jpeg",
+      "brand": "HomeMate",
+      "title": "HomeMate Smart Touch Switch Works with Google Assistant and Alexa (White)",
+      "price": 2279,
+      "rating": 4.5
+    },
+    {
+      "id": 19,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012542389_437Wx649H_202203201245381.jpeg",
+      "brand": "HomeMate",
+      "title": "HomeMate 9W Smart Downlight Works with Google Assistant and Alexa (Multicolor)",
+      "price": 1079,
+      "rating": 5
+    },
+    {
+      "id": 20,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012542495_437Wx649H_202203201302211.jpeg",
+      "brand": "HomeMate",
+      "title": "HomeMate 2 Node Smart Switch Works with Google Assistant and Alexa (White)",
+      "price": 1379,
+      "rating": 3.5
+    },
+    {
+      "id": 21,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000007865031_437Wx649H_202112201800121.jpeg",
+      "brand": "Xiaomi",
+      "title": "Mi Smart LED Bulb (White)",
+      "price": 549,
+      "rating": 3.9
+    },
+    {
+      "id": 22,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011272735_437Wx649H_202201020831441.jpeg",
+      "brand": "Polycab",
+      "title": "Polycab Hohm Lanre 10A Smart Wi-Fi Plug (White)",
+      "price": 699,
+      "rating": 4.6
+    },
+    {
+      "id": 23,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000008435221_437Wx649H_202112201800441.jpeg",
+      "brand": "Zebronics",
+      "title": "Zebronics Zeb-SP110 10A Smart Wi-Fi Plug Compatible with Google Assistant and Alexa (White)",
+      "price": 2499,
+      "rating": 4.6
+    },
+    {
+      "id": 24,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000011272731_437Wx649H_202204281259071.jpeg",
+      "brand": "Polycab",
+      "title": "Polycab Hohm Avenir LLP0103084 20W Smart Wi-Fi LED Batten (White)",
+      "price": 599,
+      "rating": 3.3
+    },
+    {
+      "id": 25,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012338753_437Wx649H_202203031617161.jpeg",
+      "brand": "GM",
+      "title": "GM 3261 Cuba 4+1 Power Strip with Safety Shutter, 3 International Sockets, 3 USB Ports (White)",
+      "price": 999,
+      "rating": 5
+    },
+    {
+      "id": 26,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011380594_437Wx649H_202112072322261.jpeg",
+      "brand": "Wipro",
+      "title": "Wipro Garnet NS9001 B22 9W Wi-Fi Smart LED Bulb (White)",
+      "price": 839,
+      "rating": 4.5
+    },
+    {
+      "id": 27,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012279911_437Wx649H_202202252302361.jpeg",
+      "brand": "Godrej",
+      "title": "Godrej Eagle-I Lite Smart Home Alarm System (White)",
+      "price": 2999,
+      "rating": 5
+    },
+    {
+      "id": 28,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012542390_437Wx649H_202203201245391.jpeg",
+      "brand": "HomeMate",
+      "title": "HomeMate 15W Smart Downlight Works with Google Assistant and Alexa (Multicolor)",
+      "price": 1389,
+      "rating": 2.1
+    },
+    {
+      "id": 29,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012542391_437Wx649H_202203201245391.jpeg",
+      "brand": "HomeMate",
+      "title": "HomeMate Smart Touch Fan Regulator Works with Google Assistant and Alexa (White)",
+      "price": 1449,
+      "rating": 1.9
+    },
+    {
+      "id": 30,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012542387_437Wx649H_202203201245361.jpeg",
+      "brand": "HomeMate",
+      "title": "HomeMate 9W Smart Bulb B22 Works with Google Assistant and Alexa (Multicolor)",
+      "price": 619,
+      "rating": 3.8
+    },
+    {
+      "id": 31,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000007865032_437Wx649H_202112201800121.jpeg",
+      "brand": "Xiaomi",
+      "title": "Mi Smart LED Bulb (B22)",
+      "price": 799,
+      "rating": 2.3
+    },
+    {
+      "id": 32,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011272732_437Wx649H_202201020600231.jpeg",
+      "brand": "Polycab",
+      "title": "Polycab Hohm Lanre 16A Smart Plug with energy metering - Suitable for High Power Appliances",
+      "price": 799,
+      "rating": 2.4
+    },
+    {
+      "id": 33,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012934595_437Wx649H_202205191750121.jpeg",
+      "brand": "CP Plus",
+      "title": "CP Plus CP-E24A 2 MP Wi-Fi PT Camera - 15 meter (White)",
+      "price": 2200,
+      "rating": 5
+    },
+    {
+      "id": 34,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012934596_437Wx649H_202205191750211.jpeg",
+      "brand": "CP Plus",
+      "title": "CP Plus 2 MP Wi-Fi PT Camera. 15 Mtr. Full HD Video Camera with 360 degree with Google and Alexa",
+      "price": 2499,
+      "rating": 2.4
+    },
+    {
+      "id": 35,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000011380584_437Wx649H_202112072322231.jpeg",
+      "brand": "Wipro",
+      "title": "Wipro Next DS31200 12W Smart Panel Tunable (White)",
+      "price": 617,
+      "rating": 3.1
+    },
+    {
+      "id": 36,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012542384_437Wx649H_202203201245341.jpeg",
+      "brand": "HomeMate",
+      "title": "HomeMate WiFi Smart Plug 10A Socket (White)",
+      "price": 839,
+      "rating": 4.1
+    },
+    {
+      "id": 37,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000011272730_437Wx649H_202201161521131.jpeg",
+      "brand": "Polycab",
+      "title": "Polycab Hohm Avance Wi-Fi Enabled Smart LED Bulb 9-Watts  (Warm White and Cool White, Pack of 1)",
+      "price": 499,
+      "rating": 2.5
+    },
+    {
+      "id": 38,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012542397_437Wx649H_202203201245431.jpeg",
+      "brand": "HomeMate",
+      "title": "HomeMate Smart Touch Switch Works with Google Assistant and Alexa (Black)",
+      "price": 2279,
+      "rating": 2.2
+    },
+    {
+      "id": 39,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012542395_437Wx649H_202203201245431.jpeg",
+      "brand": "HomeMate",
+      "title": "HomeMate Smart Touch Fan Regulator Works with Google Assistant and Alexa (Black)",
+      "price": 1449,
+      "rating": 1.2
+    },
+    {
+      "id": 40,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012542396_437Wx649H_202203201245431.jpeg",
+      "brand": "HomeMate",
+      "title": "HomeMate 24A Smart Touch Switch Works with Google Assistant and Alexa (Black)",
+      "price": 1499,
+      "rating": 1
+    }
+  ]  
+}

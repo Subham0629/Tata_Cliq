@@ -1,5 +1,6 @@
 import axios from "axios";
 import {useState,useEffect  } from "react";
+import LandingSlider from "./LandingSlider";
 import {
     Box,
     Center,
@@ -31,10 +32,13 @@ useEffect(()=>{
 const IMAGE =
   'https://images.unsplash.com/photo-1518051870910-a46e30d9db16?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80';
 
- return (<Grid templateColumns='repeat(4, 1fr)' gap={6}>
+ return (
+<>
+{/* <LandingSlider/> */}
+ <Grid templateColumns='repeat(5, 1fr)' gap={6}>
     {data.map((el)=>  (
     <Center py={12}>
-      <Box
+      <Box _hover={{bg:"gray",cursor:"pointer"}}
         role={'group'}
         p={6}
         maxW={'330px'}
@@ -57,7 +61,7 @@ const IMAGE =
             pos: 'absolute',
             top: 5,
             left: 0,
-            backgroundImage: `url(${IMAGE})`,
+            //backgroundImage: `url(${IMAGE})`,
             filter: 'blur(15px)',
             zIndex: -1,
           }}
@@ -99,6 +103,6 @@ const IMAGE =
       </Box>
     </Center>
   ))}
-  </Grid>)
+  </Grid></> )
 }
 export default LandingPage

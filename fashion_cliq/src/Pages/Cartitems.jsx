@@ -10,26 +10,41 @@ import {
     Stack,
     Image,
     Button,
+    HStack
   } from '@chakra-ui/react';
-  import { Grid, GridItem } from '@chakra-ui/react'
-  function AddToCart(id,image,brand,title,price,rating){
-    axios.post("http://localhost:3000/cart", {
-      id,image,brand,title,price,rating
-    })
-    .then(function (response) {
-      console.log(response);
-    })
-    .catch(function (error) {
-      console.log(error);
-    });
+  import { Grid, GridItem } from '@chakra-ui/react';
+  function handleDelete(id){
+    axios.delete(`http://localhost:3000/cart/${id}`)
+            .then(function (response) {
+              console.log(response);
+            })
+            .catch(function (error) {
+              console.log(error);
+            });
   }
-function LandingPage(){
+
+function Cartitems(){
 const [data,setData]=useState([])
-
-
+const [quantity,setquantity]=useState("1")
+const handleDataChange = (id, value) => {
+    const updatedData = data.map((item) =>
+    // {if(item.id === id){
+    //     if(value=="1"){
+    //   { ...item,price:item.price +item.price };
+    //     }elseif(value=="-1"){
+    //       { ...item
+    //         ,price:item.price - item.price };
+    //     }
+    //    }}
+      item.id === id ? value=="1" ? { 
+      price:item.price +item.price } : {
+        price:item.price -item.price } :item
+    );
+    setData(updatedData);
+  };
 
 useEffect(()=>{
-    axios.get('http://localhost:3000/womensproduct')
+    axios.get('http://localhost:3000/cart')
   .then(function (response) {
     // handle success
     setData(response.data);
@@ -39,13 +54,16 @@ useEffect(()=>{
     console.log(error);
   })
 },[])
+//console.log(data)
  return (
 <>
-{/* <LandingSlider/> */}
+<div><Heading>Total Price:{data.reduce((acc,curr) =>(acc+curr.price),0)}</Heading>
+<Button colorScheme='blue'>Buy Now</Button>
+</div>
  <Grid templateColumns='repeat(5, 1fr)' gap={6}>
     {data.map((el)=>  (
     <Center key={el.id} py={12}>
-      <Box  _hover={{bg:"gray",cursor:"pointer"}}
+      <Box  _hover={{cursor:"pointer"}}
         role={'group'}
         p={6}
         maxW={'330px'}
@@ -67,6 +85,7 @@ useEffect(()=>{
             pos: 'absolute',
             top: 5,
             left: 0,
+            //backgroundImage: `url(${IMAGE})`,
             filter: 'blur(15px)',
             zIndex: -1,
           }}
@@ -103,14 +122,22 @@ useEffect(()=>{
               Rating:{el.rating}
           
             </Text>
-            <Button onClick={()=>AddToCart(el.id,el.image,el.brand,el.title,el.price,el.rating)} variant='outline' colorScheme='blue'>
-        Add to cart
+            <Button onClick={()=>handleDelete(el.id)} variant='outline' colorScheme='blue'>
+        Delete
       </Button>
           </Stack>
+          <HStack>
+            <Box><Button onClick={()=>handleDataChange(el.id, -1)}>-</Button></Box>
+            <Box>{quantity}</Box>
+            <Box><Button onClick={()=>handleDataChange(el.id, 1)}>+</Button></Box>
+          </HStack>
         </Stack>
       </Box>
     </Center>
   ))}
-  </Grid></> )
+  </Grid>
+  
+  </> )
 }
-export default LandingPage
+
+export default Cartitems

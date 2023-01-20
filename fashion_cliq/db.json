@@ -2164,5 +2164,15 @@
       "price": 1499,
       "rating": 1
     }
-  ]  
+  ],
+  "cart": [
+    {
+      "id": 5,
+      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012158113_437Wx649H_202212011135041.jpeg",
+      "brand": "Red Tape",
+      "title": "Red Tape Women's Blue Running Shoes",
+      "price": 1589,
+      "rating": 3
+    }
+  ]
 }

@@ -25,20 +25,26 @@ import {
 
 function Cartitems(){
 const [data,setData]=useState([])
-const [quantity,setquantity]=useState("1")
-const handleDataChange = (id, value) => {
-    const updatedData = data.map((item) =>
+const [quantity,setquantity]=useState(1)
+const [pri,setpri]=useState(0)
+var newprice=0
+const handleDataChange = (id,count,price,value) => {
+  setquantity(quantity+value)
+  setpri(price)
+  console.log(quantity)
+  newprice=price
+  console.log(newprice, newprice*quantity)
+    var updatedData = data.map((item) =>
     // {if(item.id === id){
     //     if(value=="1"){
-    //   { ...item,price:item.price +item.price };
+    //   { ...item,price:item.price +item.price }
     //     }elseif(value=="-1"){
     //       { ...item
-    //         ,price:item.price - item.price };
+    //         ,price:item.price - item.price }
     //     }
     //    }}
-      item.id === id ? value=="1" ? { 
-      price:item.price +item.price } : {
-        price:item.price -item.price } :item
+       
+      (item.id==id) ? {...item,price:price*quantity}:item
     );
     setData(updatedData);
   };
@@ -127,9 +133,9 @@ useEffect(()=>{
       </Button>
           </Stack>
           <HStack>
-            <Box><Button onClick={()=>handleDataChange(el.id, -1)}>-</Button></Box>
+            <Box><Button onClick={()=>handleDataChange(el.id,el.count,el.price, -1)}>-</Button></Box>
             <Box>{quantity}</Box>
-            <Box><Button onClick={()=>handleDataChange(el.id, 1)}>+</Button></Box>
+            <Box><Button onClick={()=>handleDataChange(el.id,el.count,el.price, 1)}>+</Button></Box>
           </HStack>
         </Stack>
       </Box>

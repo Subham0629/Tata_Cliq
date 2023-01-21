@@ -1,14 +1,6 @@
 {
   "mensproduct": [
     {
-      "id": 1,
-      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000013223686_437Wx649H_202205221451261.jpeg",
-      "brand": "Nuon Men",
-      "title": "Nuon Men by Westside Grey Nuo-Flex Rodeo Carrot-Fit Jeans",
-      "price": 1699,
-      "rating": 4.1
-    },
-    {
       "id": 2,
       "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010848740_437Wx649H_202110090116481.jpeg",
       "brand": "ID",
@@ -1033,12 +1025,44 @@
       "rating": 3.9
     },
     {
-      "id": 130,
-      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000010583645_437Wx649H_202204040158191.jpeg",
-      "brand": "Lee",
-      "title": "Lee White & Olive Colour-Block T-Shirt",
-      "price": 584,
-      "rating": 4
+      "brand": "New Balance",
+      "title": "Black Running Shoes",
+      "image": "https://m.media-amazon.com/images/I/81Pk4RiSKqL._AC_UL320_.jpg",
+      "price": "800",
+      "rating": "4.5",
+      "id": 130
+    },
+    {
+      "brand": "Campus",
+      "title": "Campus Running Shoes",
+      "image": "https://m.media-amazon.com/images/I/81CmZsYGooL._AC_UL320_.jpg",
+      "price": "2500",
+      "rating": "3.5",
+      "id": 131
+    },
+    {
+      "brand": "Generic",
+      "title": "Everup Men's Footwear Training",
+      "image": "https://m.media-amazon.com/images/I/51SAQ2OMfQL._AC_UL320_.jpg",
+      "price": "600",
+      "rating": "1.2",
+      "id": 132
+    },
+    {
+      "brand": "Birde",
+      "title": "Premium Sports Shoes for Men",
+      "image": "https://m.media-amazon.com/images/I/71FscPGh5YL._AC_UL320_.jpg",
+      "price": "200",
+      "rating": "3.2",
+      "id": 133
+    },
+    {
+      "brand": "Birde",
+      "title": "Premium Sports Shoes for Men2",
+      "image": "https://m.media-amazon.com/images/I/71FscPGh5YL._AC_UL320_.jpg",
+      "price": "500",
+      "rating": "3.9",
+      "id": 134
     }
   ],
   "womensproduct": [
@@ -2167,12 +2191,13 @@
   ],
   "cart": [
     {
-      "id": 5,
-      "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012158113_437Wx649H_202212011135041.jpeg",
-      "brand": "Red Tape",
-      "title": "Red Tape Women's Blue Running Shoes",
-      "price": 1589,
-      "rating": 3
+      "id": 2,
+      "image": "https://img.tatacliq.com/images/i7/437Wx649H/MP000000010757356_437Wx649H_202109291247381.jpeg",
+      "brand": "Scholl",
+      "title": "Scholl by Bata Women's Maroon Thong Wedges",
+      "price": 849,
+      "rating": 5,
+      "count": 1
     }
   ]
 }

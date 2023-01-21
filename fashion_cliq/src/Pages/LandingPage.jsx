@@ -12,9 +12,9 @@ import {
     Button,
   } from '@chakra-ui/react';
   import { Grid, GridItem } from '@chakra-ui/react'
-  function AddToCart(id,image,brand,title,price,rating){
+  function AddToCart(id,image,brand,title,price,rating,count=1){
     axios.post("http://localhost:3000/cart", {
-      id,image,brand,title,price,rating
+      id,image,brand,title,price,rating,count
     })
     .then(function (response) {
       console.log(response);
@@ -41,7 +41,7 @@ useEffect(()=>{
 },[])
  return (
 <>
-{/* <LandingSlider/> */}
+<LandingSlider/> 
  <Grid templateColumns='repeat(5, 1fr)' gap={6}>
     {data.map((el)=>  (
     <Center key={el.id} py={12}>
